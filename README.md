@@ -1,5 +1,7 @@
 # Tushar Utane | Frontend Developer 
 
+### Thank you for visiting the repository. Here are some of my past works, and I am currently building others.
+
 ## Skills
 - **Frontend:** React | HTML5 | CSS3 | TypeScript | JavaScript | Redux-Toolkit | Next
 - **Backend:** Node.js | Express.js | Firebase
